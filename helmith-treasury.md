@@ -1,4 +1,5 @@
 finance management system
+
 #oiutline:
 1. expenses - imcome calculating daily expenses following (cashbook)
 2. taxation - calculates tax based of income
