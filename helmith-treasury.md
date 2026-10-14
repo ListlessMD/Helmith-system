@@ -1,6 +1,6 @@
 finance management system
 
-#oiutline:
+# outline:
 1. expenses - imcome calculating daily expenses following (cashbook)
 2. taxation - calculates tax based of income
 3. investment - calculates potential investment outcomes
