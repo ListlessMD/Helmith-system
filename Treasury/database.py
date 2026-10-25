@@ -3,9 +3,6 @@ from pathlib import Path
 
 DB_NAME = Path("Treasury").parent / "expenses.db"
 
-DB_NAME = "expenses.db"
-
-
 def init_db() -> None:
     with sqlite3.connect(DB_NAME) as conn:
         conn.execute("""
