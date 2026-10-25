@@ -1,10 +1,11 @@
 full collection of personal applications
 # Helmgear-sound-
 music player but in html
+# Helmith-Treasury
+money/expenses tracker offline
+# Helmith-shifter
+converter for mediums (pdf to ??, mp3 to ??, png to ??)
 
 # To do list:
-make good looking ui (html/css) ( button ui done)(background ui pending)
-allow it to access music playing apps(spotify)
-add skip,pause,play buttons (done)
-logic (js)
-
+rename treasury and shifter
+change helmgear to ultimedia player not just sound
